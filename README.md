@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-TW&count_private=true&show_icons=true&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HC-TW&count_private=true&show_icons=true&theme=nord)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HC-TW&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
